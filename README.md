@@ -12,7 +12,8 @@ This Portfolio is a compilation of a few data science and data analytics project
 In this project, I have used general machine learning algorithms alongside Python packages (i.e. Pandas, PyCaret) to create predictions for fraudulent transactions at retail self-checkouts.
 
 
- 
+#
+
 
 
 ## Relevant Certifications
