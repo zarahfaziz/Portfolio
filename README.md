@@ -13,6 +13,8 @@ Predicted fraudulent transactions at retail self-checkouts using general machine
 
 
 
+
+
 #
 
 <img align="left" width="250" height="150" src="https://github.com/zarahfaziz/Portfolio/blob/main/Images/covid19-analysis.png"> **[COVID-19 Analysis](https://github.com/zarahfaziz/COVID19-analysis)**
