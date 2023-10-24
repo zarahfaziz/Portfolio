@@ -11,14 +11,11 @@ This Portfolio is a compilation of a few data science and data analytics project
 
 Predicted fraudulent transactions at retail self-checkouts using general machine learning algorithms.
 
-
 #
-
 
 <img align="left" width="250" height="150" src="https://github.com/zarahfaziz/Portfolio/blob/main/Images/covid19-analysis.png"> **[COVID-19 Analysis](https://github.com/zarahfaziz/COVID19-analysis)**
 
-This project encompasses a basic analysis of COVID-19 data using Python. The specific focus of this project is to analyze trends in COVID-19 cases across various countries / regions, as well as the counts of active, recovered, death, and total cases across the world.
-
+Analyzed COVID-19 case counts and trends worldwide, including active, recovered, death, and total cases in various regions.
 
 #
 
