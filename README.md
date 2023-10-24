@@ -9,7 +9,7 @@ This Portfolio is a compilation of a few data science and data analytics project
 
 <img align="left" width="250" height="150" src="https://github.com/zarahfaziz/Portfolio/blob/main/Images/fraud-detection.jpeg"> **[Fraud Detection at Retail Self-Checkouts](https://github.com/zarahfaziz/fraud-detection-project)**
 
-In this project, I have used general machine learning algorithms alongside Python packages (i.e. Pandas, PyCaret) to create predictions for fraudulent transactions at retail self-checkouts.
+For this project, general machine learning algorithms were used to create predictions for fraudulent transactions at retail self-checkouts. The goal of this project was to minimize losses by identifying cases of fraud using a classification model.
 
 #
 
@@ -21,7 +21,7 @@ This project encompasses a basic analysis of COVID-19 data using Python. The spe
 
 <img align="left" width="250" height="150" src="https://github.com/zarahfaziz/Portfolio/blob/main/Images/bakerysales-project.jpeg"> **[Bakery Sales Analysis](https://github.com/zarahfaziz/bakerysales-project)**
 
-Analyzed bakery sales trends, product purchase patterns, and customer preferences in order to provide business insights for a local bakery in Edinburgh.
+The goal of this project was to analyze bakery sales trends, product purchase patterns, and customer preferences in order to provide business insights for a local bakery ("The Bread Basket") in Edinburgh. This was achieved using Market Basket Analysis and Association Rule Mining techniques.
 
 #
 
