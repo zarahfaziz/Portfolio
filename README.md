@@ -9,7 +9,7 @@ This Portfolio is a compilation of a few data science and data analytics project
 
 <img align="left" width="250" height="150" src="https://github.com/zarahfaziz/Portfolio/blob/main/Images/fraud-detection.jpeg"> **[Fraud Detection at Retail Self-Checkouts](https://github.com/zarahfaziz/fraud-detection-project)**
 
-In this project, I have used general machine learning algorithms alongside Python packages (i.e. Pandas, PyCaret) to create predictions for fraudulent transactions at retail self-checkouts.
+Predicted fraudulent transactions at retail self-checkouts using general machine learning algorithms.
 
 #
 
