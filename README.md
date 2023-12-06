@@ -28,6 +28,7 @@ The goal of this project was to analyze bakery sales trends, product purchase pa
 
 ## Relevant Certifications
 
+- [AWS Certified Solutions Architect - Associate](https://github.com/zarahfaziz/Portfolio/blob/main/Certificates/AWS-Certified-Solutions-Architect-Associate_ZarahAziz.pdf)
 - [Google Data Analytics](https://github.com/zarahfaziz/Portfolio/blob/main/Certificates/Google_DataAnalyticsSpecialization.pdf)
 - [AWS Technical Essentials](https://github.com/zarahfaziz/Portfolio/blob/main/Certificates/AWS_TechnicalEssentials.pdf)
 - [Practical Machine Learning](https://github.com/zarahfaziz/Portfolio/blob/main/Certificates/JHU_PracticalMachineLearning.pdf)
